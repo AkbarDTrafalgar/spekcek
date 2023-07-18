@@ -1,6 +1,8 @@
 <p align="center">
 <br>
+<h2>
 MOBILE SPEK CHECK
+</h2>
 </p>
 </br>
 
@@ -9,7 +11,7 @@ MOBILE SPEK CHECK
 > pkg update && pkg upgrade -y
 > pkg install git
 > pkg install python
-> git clone https://github.com/AkagamiNoAkbar/spekcek
+> git clone https://github.com/AkbarDTrafalgar/spekcek
 > cd spekcek
 > python spekcek.py
 ```
